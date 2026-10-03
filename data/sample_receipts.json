@@ -1,0 +1,6 @@
+{
+  "receipts": [
+    { "run_id": "r1", "agent": "planner", "action": "list_repos", "status": "ok", "duration_ms": 120 },
+    { "run_id": "r1", "agent": "security", "action": "scan", "status": "ok", "duration_ms": 340 }
+  ]
+}
